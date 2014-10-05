@@ -1,0 +1,17 @@
+{
+	"uuid": "af66848c-b1de-4a1e-ba6d-622c1a245372",
+	"shortName": "Forekast",
+	"longName": "Forekast",
+	"companyName": "Matthew Congrove",
+	"versionCode": 1,
+	"versionLabel": "1.0",
+	"watchapp": {
+		"watchface": false
+	},
+	"appKeys": {
+		
+	},
+	"resources": {
+		"media": []
+	}
+}
