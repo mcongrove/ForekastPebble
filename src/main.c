@@ -43,8 +43,6 @@ void send_event_request_to_phone() {
 		return;
 	}
 	
-	
-	
 	dict_write_int8(iter, 0, SKIP);
 	dict_write_end(iter);
 	
